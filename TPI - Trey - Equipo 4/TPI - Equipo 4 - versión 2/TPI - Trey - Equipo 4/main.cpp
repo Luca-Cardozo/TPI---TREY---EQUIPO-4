@@ -7,6 +7,7 @@ using namespace std;
 
 int main()
 {
+    setlocale(LC_ALL, "spanish");
     // Inicializacion de la semilla para generar numeros pseudoaleatorios
     srand(time(NULL));
 
@@ -18,7 +19,7 @@ int main()
     int PTJugador1, PTJugador2;
     // Vectores para almacenar los 5 mejores puntajes y los nombres de los jugadores correspondientes
     // Se mostraran eligiendo la opcion ESTADISTICAS
-    string rankingMejores5Jugadores[5] = {"Vacio", "Vacio", "Vacio", "Vacio", "Vacio"};
+    string rankingMejores5Jugadores[5] = {"Vacío", "Vacío", "Vacío", "Vacío", "Vacío"};
     //string rankingMejores5Jugadores[5] = {"Nombre1", "Nombre2", "Nombre3", "Nombre4", "Nombre5"};
     int rankingMejores5Puntajes[5] = {};
     //int rankingMejores5Puntajes[5] = {84, 73, 62, 60, 45};
@@ -82,7 +83,7 @@ int main()
             break;
         default:
             cout << endl;
-            cout << "\033[40;31mElegiste una opcion incorrecta. Vuelve a intentarlo.\033[0m\n" << endl;
+            cout << "\033[40;31mElegiste una opción incorrecta. Vuelve a intentarlo.\033[0m\n" << endl;
             system("pause");
             cout << endl;
             break;
