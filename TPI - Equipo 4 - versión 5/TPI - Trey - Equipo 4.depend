@@ -1,0 +1,206 @@
+# depslib dependency file v1.0
+1749759243 source:d:\información de luca\información de luca\tup\programación i\tpi\tpi - equipo 4\tpi - trey - equipo 4\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
+1749770318 d:\información de luca\información de luca\tup\programación i\tpi\tpi - equipo 4\tpi - trey - equipo 4\funcionestrey.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1749761856 source:d:\información de luca\información de luca\tup\programación i\tpi\tpi - equipo 4\tpi - trey - equipo 4\entrada_de_datos.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
+1749770555 source:d:\información de luca\información de luca\tup\programación i\tpi\tpi - equipo 4\tpi - trey - equipo 4\interfaz_del_menu.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
+1749762011 source:d:\información de luca\información de luca\tup\programación i\tpi\tpi - equipo 4\tpi - trey - equipo 4\logica_del_juego.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
+1749769407 source:d:\información de luca\información de luca\tup\programación i\tpi\tpi - equipo 4\tpi - trey - equipo 4\puntajes_y_estadisticas.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
+1749770532 source:d:\información de luca\información de luca\tup\programación i\tpi\tpi - equipo 4\tpi - trey - equipo 4\ejecucion_del_juego.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
+1750368754 source:d:\información de luca\información de luca\tup\programación i\tpi\tpi - equipo 4 - versión 2\tpi - trey - equipo 4\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
+1750373171 d:\información de luca\información de luca\tup\programación i\tpi\tpi - equipo 4 - versión 2\tpi - trey - equipo 4\funcionestrey.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1750104657 source:d:\información de luca\información de luca\tup\programación i\tpi\tpi - equipo 4 - versión 2\tpi - trey - equipo 4\entrada_de_datos.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
+1750104898 source:d:\información de luca\información de luca\tup\programación i\tpi\tpi - equipo 4 - versión 2\tpi - trey - equipo 4\interfaz_del_menu.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
+1750375022 source:d:\información de luca\información de luca\tup\programación i\tpi\tpi - equipo 4 - versión 2\tpi - trey - equipo 4\puntajes_y_estadisticas.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
+1750374322 source:d:\información de luca\información de luca\tup\programación i\tpi\tpi - equipo 4 - versión 2\tpi - trey - equipo 4\ejecucion_del_juego.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
+1750370149 source:d:\información de luca\información de luca\tup\programación i\tpi\tpi - equipo 4 - versión 2\tpi - trey - equipo 4\logica_del_juego.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
+1750430015 source:d:\información de luca\información de luca\tup\programación i\tpi\tpi - equipo 4 - versión 3\tpi - trey - equipo 4\ejecucion_del_juego.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
+1750373171 d:\información de luca\información de luca\tup\programación i\tpi\tpi - equipo 4 - versión 3\tpi - trey - equipo 4\funcionestrey.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1750104657 source:d:\información de luca\información de luca\tup\programación i\tpi\tpi - equipo 4 - versión 3\tpi - trey - equipo 4\entrada_de_datos.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
+1750712228 source:d:\información de luca\información de luca\tup\programación i\tpi\tpi - equipo 4 - versión 3\tpi - trey - equipo 4\interfaz_del_menu.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
+1750370149 source:d:\información de luca\información de luca\tup\programación i\tpi\tpi - equipo 4 - versión 3\tpi - trey - equipo 4\logica_del_juego.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
+1750715165 source:d:\información de luca\información de luca\tup\programación i\tpi\tpi - equipo 4 - versión 3\tpi - trey - equipo 4\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
+1750375022 source:d:\información de luca\información de luca\tup\programación i\tpi\tpi - equipo 4 - versión 3\tpi - trey - equipo 4\puntajes_y_estadisticas.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
+1750104240 source:d:\información de luca\información de luca\tup\programación i\tpi\tpi - equipo 4 - versión 3\tpi - trey - equipo 4\funciones_de_validacion.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
+1750430015 source:d:\información de luca\información de luca\tup\programación i\tpi\tpi - equipo 4 - versión 4\tpi - trey - equipo 4\ejecucion_del_juego.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
+1750726597 d:\información de luca\información de luca\tup\programación i\tpi\tpi - equipo 4 - versión 4\tpi - trey - equipo 4\funcionestrey.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1750104657 source:d:\información de luca\información de luca\tup\programación i\tpi\tpi - equipo 4 - versión 4\tpi - trey - equipo 4\entrada_de_datos.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
+1750370149 source:d:\información de luca\información de luca\tup\programación i\tpi\tpi - equipo 4 - versión 4\tpi - trey - equipo 4\logica_del_juego.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
+1750375022 source:d:\información de luca\información de luca\tup\programación i\tpi\tpi - equipo 4 - versión 4\tpi - trey - equipo 4\puntajes_y_estadisticas.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
+1750726519 source:d:\información de luca\información de luca\tup\programación i\tpi\tpi - equipo 4 - versión 4\tpi - trey - equipo 4\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
+1750430015 source:d:\información de luca\información de luca\tup\programación i\tpi - trey - equipo 4\ejecucion_del_juego.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
+1750730157 d:\información de luca\información de luca\tup\programación i\tpi - trey - equipo 4\funcionestrey.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1750104657 source:d:\información de luca\información de luca\tup\programación i\tpi - trey - equipo 4\entrada_de_datos.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
+1750727235 source:d:\información de luca\información de luca\tup\programación i\tpi - trey - equipo 4\interfaz_del_menu.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
+1750728404 source:d:\información de luca\información de luca\tup\programación i\tpi - trey - equipo 4\logica_del_juego.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
+1750726519 source:d:\información de luca\información de luca\tup\programación i\tpi - trey - equipo 4\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
+1750375022 source:d:\información de luca\información de luca\tup\programación i\tpi - trey - equipo 4\puntajes_y_estadisticas.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"FuncionesTrey.h"
+
