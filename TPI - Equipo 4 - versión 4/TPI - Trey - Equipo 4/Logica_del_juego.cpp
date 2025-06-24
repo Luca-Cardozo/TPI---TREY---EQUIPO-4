@@ -289,6 +289,10 @@ void dosDados(int dado1, int dado2, int &PTJugador, int &contadorBugs, int &punt
     {
         contadorBugs = 0;
     }
+    if (PTJugador < 0)
+    {
+        PTJugador = 0;
+    }
 }
 
 
@@ -398,7 +402,7 @@ void tresDados(int dado1, int dado2, int dado3, int &PTJugador, int &contadorBug
     }
 
     if (contadorBugs < 0) contadorBugs = 0;
-
+    if (PTJugador < 0) PTJugador = 0;
 }
 
 
